@@ -12,3 +12,10 @@
 * __pcos_prediction_ui.py__ - python user interface program for predicting PCOS
 * __train_model.py__ - python program for training a Decision Tree classifier to predict PCOS
 
+## User Interface (UI) visualization
+
+### Empty
+![empty](./figs/ui_pcos_fig1.png)
+
+### Filled with predicted results
+![filled](./figs/ui_pcos_fig2.png)
